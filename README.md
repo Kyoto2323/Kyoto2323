@@ -1,4 +1,6 @@
 Activity 25: SOLID PRINCIPLES in Angular
+HASHNODE LINK: https://markromano69.hashnode.dev/activity-25-solid-principles-in-angular#heading-5-dependency-inversion-principle-dip
+
 
 1. Single Responsibility Principle (SRP):
 Definition: A class should have only one reason to change, meaning it should only have one job or responsibility.
@@ -145,6 +147,10 @@ Example: Instead of directly instantiating a service inside a component, inject 
 export class UserComponent {
   constructor(private userService: UserService) {}
 }
+
+
+
+HASHNODE LINK: https://markromano69.hashnode.dev/activity-25-solid-principles-in-angular#heading-5-dependency-inversion-principle-dip
 
 
 
